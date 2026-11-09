@@ -8,7 +8,7 @@ The project:
 - compares the VAE against a **One-Class SVM** baseline
 - tests whether **pretraining on public datasets** (UCI Absenteeism at Work, CERT r4.2, and a manufacturing attendance dataset) improves the Clocked VAE
 
-> **Note:** The datasets are **not** stored in this repository. You must download them from Google Drive and place them in the correct folders before running the notebooks (see [Dataset setup](#dataset-setup)).
+> **Note:** The datasets are **not** stored in this repository. You must download them from OneDrive and place them in the correct folders before running the notebooks (see [Dataset setup](#dataset-setup)).
 
 ---
 
@@ -41,15 +41,15 @@ The project:
 
 ### 1. Download the data
 
-All datasets are available in this Google Drive folder:
+All datasets are available in this OneDrive folder:
 
-**👉 [Download datasets from Google Drive](GOOGLE_DRIVE_LINK_HERE)**
+**👉 [Download datasets from OneDrive](https://nibm-my.sharepoint.com/:f:/g/personal/kic-bsccsai-251p-051_student_nibm_lk/IgCoSikszBMwQ4Zi1UL2YPilAcY9kQgCe4__YShByvS5XB8?e=4PoLWY)**
 
-The Drive folder uses **the same folder structure as this repository**. Each folder contains the data files for the notebook(s) in that folder.
+The OneDrive folder uses **the same folder structure as this repository**. Each folder contains the data files for the notebook(s) in that folder.
 
 ### 2. Place the files in the matching folders
 
-Each notebook loads its data from **its own folder** (the same folder the `.ipynb` file is in). Copy every file from a Drive folder into the folder with the same name in this repository.
+Each notebook loads its data from **its own folder** (the same folder the `.ipynb` file is in). Copy every file from a OneDrive folder into the folder with the same name in this repository.
 
 | Repository folder | Files required |
 |---|---|
